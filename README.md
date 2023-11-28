@@ -1,9 +1,3 @@
-
-<!---
-VMTY1/VMTY1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="center">
   <a href="https://github.com/VMTY1/readme-typing-svg">
     
